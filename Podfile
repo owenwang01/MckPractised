@@ -6,9 +6,8 @@ target 'Runner' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   
-  pod 'GloviBaseModule', :path => '../GloviBaseModule'
-  pod 'GloviNetWorkModule', :path => '../GloviNetWorkModule'
-  pod 'GloviHomeModule', :path => '../GloviHomeModule'
+  pod 'DeflateMango'
+  pod 'Boneshaker'
   pod 'YYText'
   pod 'GoogleSignIn'
   pod 'FBSDKLoginKit'

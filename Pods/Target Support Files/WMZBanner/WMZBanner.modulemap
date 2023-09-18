@@ -1,6 +1,0 @@
-framework module WMZBanner {
-  umbrella header "WMZBanner-umbrella.h"
-
-  export *
-  module * { export * }
-}
